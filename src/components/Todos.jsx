@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import Todo from './Todo'
+import carddata from '../carddata'
 import { nanoid } from 'nanoid'
 
 export default function Todos() {
