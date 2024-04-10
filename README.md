@@ -2,6 +2,9 @@
 
 Welcome to the Simple Todo List project! This is a basic application designed to help you keep track of tasks you need to accomplish, built using ReactJS.
 
+## Preview
+You can view the website at https://todos-list-react-js-two.vercel.app
+
 ## Features
 
 - **Add tasks:** Easily add new tasks to your list.
